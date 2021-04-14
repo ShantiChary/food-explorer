@@ -1,0 +1,39 @@
+footer {
+  font-family: $font-regular;
+  background-color: $brand-color;
+  height: auto;
+  line-height: 35px;
+  text-align: center;
+  // padding: 0.75%;
+  padding: 5px 0;
+}
+
+footer p {
+  color: $header-color;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+
+/*----media queries */
+@media all and (min-width: 769px) and (max-width: 1000px) {
+  footer {
+    // padding: 1.5%;
+  }
+}
+
+@media all and (max-width: 768px) {
+  footer {
+    // padding: 1.5%;
+  }
+}
+
+@media all and (max-width: 480px) {
+  footer {
+    // padding: 2.5% 1%;
+    height: auto;
+    line-height: 20px;
+
+    // line-height: 50px;
+  }
+}

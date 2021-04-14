@@ -1,0 +1,13 @@
+body {
+    background-image: url("../images/bg.jpg");
+    background-repeat: repeat;
+    font-family:$font-condensed;
+    color: $brand-color;
+   
+}
+
+.wrapper{
+    max-width: 940px;
+    margin:10px auto;
+    // font-family:Arial, Helvetica, sans-serif;
+}

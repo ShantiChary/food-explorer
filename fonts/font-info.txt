@@ -1,0 +1,38 @@
+Food Explorer - Font Info
+
+-----------------------------------------------
+
+Navigation font:
+
+Roboto Condensed Bold (Available on Google Fonts)
+
+Google Font Info:
+
+https://www.google.com/fonts/specimen/Roboto+Condensed
+
+-----------------------------------------------
+
+Headings Font:
+
+Roboto Condensed Regular (Available on Google Fonts)
+
+Google Font Info:
+
+https://www.google.com/fonts/specimen/Roboto+Condensed
+
+------------------------------------------------
+
+Body Font:
+
+Roboto Light (Available on Google Fonts)
+
+Google Font Info:
+
+https://www.google.com/fonts/specimen/Roboto
+
+-------------------------------------------------
+
+
+
+
+

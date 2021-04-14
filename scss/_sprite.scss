@@ -1,0 +1,87 @@
+
+img.facebook {
+  
+    object-fit: none;
+    object-position: -30px 0;
+    width: 25px;
+    height: 35px;
+    transition: all .1s ease;
+
+    &:hover,
+    &:focus,
+    &:active {
+        object-position: -30px -34px;
+        cursor: pointer;
+    }
+}
+
+img.google {
+
+    object-fit: none;
+    object-position: -65px 0;
+    padding: 0 10px 0 13px;
+    width: 51px;
+    height: 35px;
+    transition: all .1s ease;
+        
+    &:hover,
+    &:focus,
+    &:active {
+        object-position: -65px -32px;
+        cursor: pointer;
+    }
+} 
+
+
+img.twitter {
+  
+    object-fit: none;
+    object-position: -95px 0;
+    width: 35px;
+    height: 35px;
+    transition: all .1s ease;
+        
+    &:hover,
+    &:focus,
+    &:active {
+        object-position: -95px -34px;
+        cursor: pointer;
+    }
+}
+
+img.hamburger {
+
+    object-fit: none;
+    object-position: 0 0;
+    width: 35px;
+    height: 35px;
+    transition: all .1s ease;
+        
+    &:hover,
+    &:focus,
+    &:active {
+        object-position: 0 -35px;
+        cursor: pointer;
+    }
+}
+
+img.posts-btn{
+
+    object-fit: none;
+    object-position: 0 0;
+    width:225px;
+    height: 21px;
+    transition: all .1s ease;
+    padding: 0;
+    margin: 40px 0;
+
+    &:hover,
+    &:focus,
+    &:active {
+        object-position: 0 -21px;
+        cursor: pointer;
+    }
+}
+
+
+

@@ -1,0 +1,89 @@
+
+.recipes {
+  margin-bottom: 8%;
+  margin-left: auto;
+  width: 225px;
+}
+
+.recipes h3 {
+  background-color: $brand-nav-color;
+  height: 40px;
+  font-family: $font-condensed;
+  font-size: 18px;
+  line-height:30px;
+  color: $container-box-color;
+  padding: 3% 0 0 3%;
+}
+
+.box-side img {
+  border: 1px solid $brand-color;
+}
+
+.box6,
+.box8 {
+  background-color: $sidebar-color1;
+  display: flex;
+  padding: 4%;
+
+}
+
+.box6 h4,
+.box7 h4,
+.box8 h4,
+.box9 h4 {
+  width: 55%;
+  padding: 7% 0 0 5%;
+  font-size: 16px;
+  color: #000;
+}
+
+.box7,
+.box9 {
+  background-color: $sidebar-color2;
+  display: flex;
+  padding: 10px;
+
+}
+
+
+
+
+
+
+/*-------------------------------------*/
+.cuisines {
+    background-color: white;
+    font-family: $font-condensed;
+    padding-bottom: 4%;
+    width: 225px;
+    margin-left: auto;
+  
+}
+
+.cuisines H3{
+  background-color: $brand-nav-color;
+  height: 40px;
+  font-family: $font-condensed;
+  font-size: 18px;
+  line-height:30px;
+  color: $container-box-color;
+  padding: 3% 0 0 3%;
+  text-transform: uppercase;
+  margin-bottom: 3%;
+}
+
+.cuisines p{
+  color: black;
+  text-decoration: none;
+  padding: 3% 0;
+}
+
+.cuisines a{
+  text-decoration: none;
+  color: black;
+  padding: 2% 3%;
+  display: block;
+}
+
+
+/*-------media queries ------------=---*/
